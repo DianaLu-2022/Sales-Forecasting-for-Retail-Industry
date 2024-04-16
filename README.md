@@ -29,5 +29,5 @@ Different regression models including Linear Regression, Random Forest, Decision
 The Random Forest regression model achieved the most outstanding performance, especially under One-Hot Encoding. The data preprocessing steps and model training process are detailed in the respective sections of this report.
 
 Additional Information
-For detailed analysis, please refer to report.pdf.
-To understand the analysis process, please check Retail_Store_Sales_Forecasting.ipynb.
+For detailed analysis, please refer to `report.pdf`.
+To understand the analysis process, please check `Retail_Store_Sales_Forecasting.ipynb`.
